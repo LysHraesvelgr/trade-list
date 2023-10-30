@@ -14,7 +14,7 @@ ITEMS im missing - GRAB before "12 5 23"
 
 <ass class=ASS>
 
-#### THRONED SACRED
+#### ~~THRONED SACRED~~
 
 </ass>
 
@@ -96,9 +96,9 @@ ITEMS im missing - GRAB before "12 5 23"
 
 <ASS CLASS=ASS>
 
-#### WANED FLAME
+#### ~~WANED FLAME~~
 
-#### FISSURE
+#### ~~FISSURE~~
 
 </ASS>
 
@@ -138,9 +138,9 @@ ITEMS im missing - GRAB before "12 5 23"
 
 <ass class=ASS>
 
-#### WANED FLAME
+#### ~~WANED FLAME~~
 
-#### UNCANNY
+#### ~~UNCANNY~~
 
 </ass>
 
