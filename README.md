@@ -1,5 +1,18 @@
 <STYLE>
-    .ASS{
+    body {
+        background: black;
+        color: #91beec;
+    }
+    
+    li {
+        color: #be91ec;
+    }
+
+    ass {
+        color:red;
+    }
+
+    h5 {
         color:red;
     }
 </style>
@@ -7,16 +20,12 @@
 # trade-list
 
 ```js
-ITEMS im missing - GRAB before "12 5 23"
+ITEMS missing - FIND before 12/5/23
 ```
 
 ## WHEELS
 
-<ass class=ASS>
-
-#### ~~THRONED SACRED~~
-
-</ass>
+##### ~~THRONED SACRED~~
 
 #### CREEPER
 
@@ -94,13 +103,9 @@ ITEMS im missing - GRAB before "12 5 23"
 
 + GRY BLK CRM PNK BS ORG LME FG SKY COB PRP
 
-<ASS CLASS=ASS>
+##### ~~WANED FLAME~~
 
-#### ~~WANED FLAME~~
-
-#### ~~FISSURE~~
-
-</ASS>
+##### ~~FISSURE~~
 
 ## BOOST
 
@@ -136,13 +141,9 @@ ITEMS im missing - GRAB before "12 5 23"
 
 + TW GRY BLK CRM PNK BS SAFF LME SKY COB PRP
 
-<ass class=ASS>
+##### ~~WANED FLAME~~
 
-#### ~~WANED FLAME~~
-
-#### ~~UNCANNY~~
-
-</ass>
+##### ~~UNCANNY~~
 
 #### POWER-SHOT
 
