@@ -11,17 +11,20 @@
     ass {
         color:red;
     }
-
+    h2 {
+        color: #ecbe91;
+    }
     h5 {
         color:red;
     }
 </style>
 
-# trade-list
 
-```js
-ITEMS missing - FIND before 12/5/23
-```
+## Category
+#### Item
+ + paints
+##### Already Complete 
+---
 
 ## WHEELS
 
@@ -29,7 +32,11 @@ ITEMS missing - FIND before 12/5/23
 
 #### CREEPER
 
-+ ALL 12
++ [[SEARCH FILTER]][1] [[my trade]][2]
+
++ TW GRY BLK SAFF FG SKY COB PRP
+
++ ##### PNK LME ORG BS
 
 #### SPIRALIS R2
 
@@ -49,8 +56,6 @@ ITEMS missing - FIND before 12/5/23
 
 + LME SKY
 
-    + 80 CR
-
 #### TRI-2050
 
 + GRY BLK SKY PRP SAFF ORG BS FG LME CRM
@@ -68,14 +73,17 @@ ITEMS missing - FIND before 12/5/23
 #### MERC
 
 + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+    + ##### LME
 
-#### DOM GT
+##### DOM GT
+##### BREAKOUT TYPE S
+#### MAESTRO
++ TW BLK BS ORG SAFF LME SKY COB
+    + ##### GRY CRM FG GLD PRP
 
 ## TOPPER
 
-#### UDDER
-
-+ 70 CR
+##### UDDER
 
 ## TRAIL
 
@@ -119,7 +127,9 @@ ITEMS missing - FIND before 12/5/23
 
 #### DIMENSIONATOR
 
-+ TW GRY BLK CRM PNK SAFF LME SKY COB 
++ GRY CRM PNK SAFF LME SKY COB 
+
+    + ##### TW BLK
 
 #### RADIANT GUSH
 
@@ -131,7 +141,9 @@ ITEMS missing - FIND before 12/5/23
 
 #### SMOKE RUN
 
-+ GRY BLK CRM PNK BS SAFF LME FG SKY COB PRP
++ GRY PNK BS SAFF LME FG SKY COB PRP 
+    
+    + ##### TW BLK CRM 
 
 #### SPRATTLE
 
@@ -148,3 +160,9 @@ ITEMS missing - FIND before 12/5/23
 #### POWER-SHOT
 
 + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+
+---
+
+[1]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=A&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=150&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=0&filterOnlineOnly=0 
+
+[2]: https://rocket-league.com/trade/AO6dnVp
