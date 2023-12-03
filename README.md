@@ -21,9 +21,21 @@
 
 
 ## Category
+
 #### Item
+
  + paints
+
 ##### Already Complete 
+
+---
+
+<ul> <h1> 
+
+[my trades here][trades] 
+
+</h1></ul>
+
 ---
 
 ## WHEELS
@@ -34,20 +46,21 @@
 
 + [[SEARCH FILTER]][1] [[my trade]][2]
 
-+ GRY BLK SAFF FG SKY COB PRP
++ GRY BLK FG SKY COB PRP
 
-+ ##### TW PNK LME ORG BS
++ ##### TW PNK BS ORG SAFF LME 
 
 #### SPIRALIS R2 / SPIRALIS FLARE
 
-+ GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
++ CRM PNK BS ORG SAFF LME FG SKY COB PRP
  
-    + ##### TW
+    + ##### TW blk gry
 
 #### P-SIMM
 
 + ANY
-
+    + ##### PRP
++ INVERTED:
 #### FORERUNNER ROASTED
 
 + PNK COB PRP SAFF FG
@@ -56,7 +69,8 @@
 
 #### ENJIN ROASTED
 
-+ LME SKY
++ LME 
+    + ##### SKY
 
 #### TRI-2050
 
@@ -169,3 +183,5 @@
 
 [2]: https://rocket-league.com/trade/AO6dnVp
 [creepertw]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=3&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=100000&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=1&filterOnlineOnly=0
+
+[trades]: https://rocket-league.com/trades/Elysia "Elysia"
