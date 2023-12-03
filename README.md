@@ -24,9 +24,11 @@
 
 #### Item
 
- + paints
+ + paints: `TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP GLD`
+ 
+    
 
-##### Already Complete 
+##### ACQUIRED 
 
 ---
 
@@ -54,7 +56,7 @@
 
 + CRM PNK BS ORG SAFF LME FG SKY COB PRP
  
-    + ##### TW blk gry
+    + ##### TW GRY BLK
 
 #### P-SIMM
 
@@ -157,9 +159,9 @@
 
 #### SMOKE RUN
 
-+ GRY PNK BS SAFF LME FG SKY COB PRP 
++ GRY BS SAFF LME SKY PRP 
     
-    + ##### TW BLK CRM 
+    + ##### TW BLK CRM PNK ORG FG COB
 
 #### SPRATTLE
 
