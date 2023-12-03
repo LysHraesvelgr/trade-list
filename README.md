@@ -61,9 +61,9 @@ TLDR; head [here][MW] for top priority items
 
 + [(creeper filter][1] & [listing)][2]
 
-+ BLK FG SKY COB PRP
++ BLK SKY COB PRP
 
-+ ##### TW GRY PNK BS ORG SAFF LME 
++ ##### TW GRY PNK BS ORG SAFF LME FG 
 
 #### FORERUNNER ROASTED
 

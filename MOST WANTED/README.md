@@ -23,19 +23,21 @@
 
  [CREEPER][c] | FINISH SET
 
-[FORERUNNER](#forerunner-roasted) ROASTED | FINISH SET 
+[FORERUNNER][F] ROASTED | FINISH SET 
 
-[ENJIN](#enjin-roasted) ROASTED | LIME
+[ENJIN][E] ROASTED | LIME
 
- [MAESTRO](#maestro) | TW
+ [MAESTRO][M] | TITANIUM WHITE, PURPLE, PINK
 
-[ZADEH](#zadeh-s3-inverted) S3 INVERTED | TW BLK
+[ZADEH][Z] S3 INVERTED | TITANIUM WHITE, BLACK
 
 ---
 
 ## HEAD [HERE][1] FOR FULL SHOPPING LIST 
 
+## ADD ON [EPIC][EPIC]
 
+[EPIC]: https://store.epicgames.com/u/693bb6e9d01d4cb88aa7fed7aca5b262
 [1]: /README.md
 [C]: /README.md/#creeper
 [F]: /README.md/#forerunner-roasted
