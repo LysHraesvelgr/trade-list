@@ -32,11 +32,9 @@
 
 ---
 
-<ul> <h1> 
 
-[my trades here][trades] 
+> # [RL GARAGE LINK][trades] 
 
-</h1></ul>
 
 ---
 # index
