@@ -38,6 +38,9 @@
 
 ---
 # index
+
+TLDR; head [here][MW] for top priority items
+
 [WHEELS](#wheels)
 [BOOST](#boost)
 [BODY](#car-body)
@@ -197,6 +200,11 @@
 
 ---
 
+---
+# return to [INDEX][I]
+
+[I]: #index
+[MW]: /MOST%20WANTED/README.md
 [1]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=A&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=150&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=0&filterOnlineOnly=0 
 
 [2]: https://rocket-league.com/trade/AO6dnVp
