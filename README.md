@@ -54,11 +54,11 @@
 
 #### CREEPER
 
-+ [[SEARCH FILTER]][1] [[my trade]][2]
++ [(creeper filter][1] & [listing)][2]
 
-+ GRY BLK FG SKY COB PRP
++ BLK FG SKY COB PRP
 
-+ ##### TW PNK BS ORG SAFF LME 
++ ##### TW GRY PNK BS ORG SAFF LME 
 
 #### SPIRALIS R2 / SPIRALIS FLARE
 
