@@ -74,14 +74,12 @@
     + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP 
 #### FORERUNNER ROASTED
 
-+ PNK COB PRP SAFF FG
-
-    + 250 CR
++ PNK COB PRP SAFF FG [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
 
 #### ENJIN ROASTED
 
 + LME 
-    + ##### SKY
+    + ##### TW GRY BLK CRM PNK BS ORG SAFF FG SKY COB PRP 
 
 #### TRI-2050
 
