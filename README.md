@@ -39,6 +39,16 @@
 </h1></ul>
 
 ---
+# index
+[WHEELS](#wheels)
+[BOOST](#boost)
+[BODY](#car-body)
+[TRAIL](#trail)
+[DECAL](#DECAL)
+[TOPPER](#topper)
+[ANTENNA](#ANTENNA)
+[GOAL EX](#EXPLOSIONS)
+---
 
 ## WHEELS
 
@@ -60,9 +70,10 @@
 
 #### P-SIMM
 
-+ ANY
++ TW BLK CRM PNK BS ORG SAFF FG SKY 
     + ##### PRP
 + INVERTED:
+    + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP 
 #### FORERUNNER ROASTED
 
 + PNK COB PRP SAFF FG
@@ -178,6 +189,12 @@
 #### POWER-SHOT
 
 + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+
+## DECAL
+
+## ANTENNA
+
+## EXPLOSIONS
 
 ---
 
