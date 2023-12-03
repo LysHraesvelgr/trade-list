@@ -1,7 +1,7 @@
 <STYLE>
     body {
         background: black;
-        color: #91beec;
+        color: #91ecBE;
     }
     
     li {
@@ -29,11 +29,11 @@
     
 
 ##### ACQUIRED 
-
+---
+---
 ---
 
-
-> # [RL GARAGE LINK][trades] 
+### [(RL GARAGE)][trades] 
 
 
 ---
@@ -46,6 +46,8 @@
 [TOPPER](#topper)
 [ANTENNA](#ANTENNA)
 [GOAL EX](#EXPLOSIONS)
+---
+---
 ---
 
 ## WHEELS
@@ -60,11 +62,15 @@
 
 + ##### TW GRY PNK BS ORG SAFF LME 
 
+#### FORERUNNER ROASTED
+
++ PNK COB PRP SAFF FG [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
+
 #### SPIRALIS R2 / SPIRALIS FLARE
 
-+ CRM PNK BS ORG SAFF LME FG SKY COB PRP
++ CRM BS ORG SAFF LME FG SKY COB PRP
  
-    + ##### TW GRY BLK
+    + ##### TW GRY BLK PNK
 
 #### P-SIMM
 
@@ -72,9 +78,6 @@
     + ##### PRP
 + INVERTED:
     + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP 
-#### FORERUNNER ROASTED
-
-+ PNK COB PRP SAFF FG [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
 
 #### ENJIN ROASTED
 
