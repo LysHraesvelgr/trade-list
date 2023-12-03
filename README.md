@@ -34,13 +34,15 @@
 
 + [[SEARCH FILTER]][1] [[my trade]][2]
 
-+ TW GRY BLK SAFF FG SKY COB PRP
++ GRY BLK SAFF FG SKY COB PRP
 
-+ ##### PNK LME ORG BS
++ ##### TW PNK LME ORG BS
 
-#### SPIRALIS R2
+#### SPIRALIS R2 / SPIRALIS FLARE
 
-+ ANY
++ GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+ 
+    + ##### TW
 
 #### P-SIMM
 
@@ -72,14 +74,14 @@
 
 #### MERC
 
-+ TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
-    + ##### LME
++ GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+    + ##### LME TW
 
 ##### DOM GT
 ##### BREAKOUT TYPE S
 #### MAESTRO
-+ TW BLK BS ORG SAFF LME SKY COB
-    + ##### GRY CRM FG GLD PRP
++ TW BS ORG LME 
+    + ##### GRY SKY CRM FG GLD PRP SAFF COB PNK
 
 ## TOPPER
 
@@ -166,3 +168,4 @@
 [1]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=A&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=150&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=0&filterOnlineOnly=0 
 
 [2]: https://rocket-league.com/trade/AO6dnVp
+[creepertw]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=3&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=100000&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=1&filterOnlineOnly=0
