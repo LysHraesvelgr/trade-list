@@ -1,28 +1,22 @@
 <!DOCTYPE html>
-
-<html
- 
-lang="en">
-
+<html lang="en">
 <head>
-
-  
-<meta
- 
-charset="UTF-8">
-
-  
-<meta
- 
-name="viewport"
- 
-content="width=device-width, initial-scale=1.0">
-
-  
-<title>Top Priority Items</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Priority Purchases</title>
   <link rel="stylesheet" href="https://unpkg.com/github-markdown-css@4.0.0/github-markdown.css">
 </head>
 <body>
-  <div id="readme-content"></div>
-
-  <
+  <div id="readme-content">
+    <script>
+      fetch('README.md')
+        .then(response => response.text())
+        .then(markdown => {
+          const readmeContent = new DOMParser().parseFromString(markdown, 'text/html').documentElement;
+          const content = document.getElementById('readme-content');
+          content.appendChild(readmeContent);
+        });
+    </script>
+  </div>
+</body>
+</html>
