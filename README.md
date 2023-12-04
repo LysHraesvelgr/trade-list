@@ -21,8 +21,6 @@
 
 # MOST WANTED
 
-###
-
 1. [CREEPER][c] - FINISH SET
 
 1. [FORERUNNER][F] ROASTED - FINISH SET 
@@ -48,14 +46,12 @@
     
 
 ##### ACQUIRED 
+
+---
 ---
 ---
 ---
 
- 
-
-
----
 # index
 skip to:
 [WHEELS](#wheels)
@@ -96,7 +92,7 @@ skip to:
 #### P-SIMM
 
 + TW BLK CRM PNK BS ORG SAFF FG SKY 
-    + ##### PRP
+    + ##### PRP NORMAL
 + INVERTED:
     + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP 
 
