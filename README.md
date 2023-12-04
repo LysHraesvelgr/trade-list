@@ -108,7 +108,7 @@ skip to:
 #### TRI-2050
 
 + BLK SKY PRP SAFF ORG FG LME CRM
-    + ##### GRY BS
+    + ##### GRY BS COB PNK TW
 
 #### ZADEH S3 INVERTED
 
