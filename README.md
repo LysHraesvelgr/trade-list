@@ -19,6 +19,23 @@
     }
 </style>
 
+# MOST WANTED
+
+ [CREEPER][c] | FINISH SET
+
+[FORERUNNER][F] ROASTED | FINISH SET 
+
+[ENJIN][E] ROASTED | LIME
+
+ [MAESTRO][M] | TITANIUM WHITE, PURPLE, PINK
+
+[ZADEH][Z] S3 INVERTED | TITANIUM WHITE, BLACK
+
+---
+
+## ADD ON [EPIC][EPIC] | [(RL GARAGE)][trades]
+
+# Key:
 
 ## Category
 
@@ -33,13 +50,11 @@
 ---
 ---
 
-### [(RL GARAGE)][trades] 
+ 
 
 
 ---
 # index
-
-TLDR; head [here][MW] for top priority items
 
 [WHEELS](#wheels)
 [BOOST](#boost)
@@ -49,6 +64,7 @@ TLDR; head [here][MW] for top priority items
 [TOPPER](#topper)
 [ANTENNA](#ANTENNA)
 [GOAL EX](#EXPLOSIONS)
+[TLDR][MW]
 ---
 ---
 ---
@@ -204,10 +220,26 @@ TLDR; head [here][MW] for top priority items
 # return to [INDEX][I]
 
 [I]: #index
-[MW]: /MOST%20WANTED/README.md
-[1]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=A&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=150&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=0&filterOnlineOnly=0 
+
+[MW]: #most-wanted
+
+[3]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=A&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=150&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=0&filterOnlineOnly=0 
 
 [2]: https://rocket-league.com/trade/AO6dnVp
 [creepertw]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=3&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=100000&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=1&filterOnlineOnly=0
 
 [trades]: https://rocket-league.com/trades/Elysia "Elysia"
+
+[EPIC]: https://store.epicgames.com/u/693bb6e9d01d4cb88aa7fed7aca5b262
+
+[1]: /README.md
+
+[C]: /README.md/#creeper
+
+[F]: /README.md/#forerunner-roasted
+
+[E]: /README.md/#enjin-roasted
+
+[M]: /README.md/#maestro
+
+[Z]: /README.md/#zadeh-s3-inverted
