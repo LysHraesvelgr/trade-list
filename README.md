@@ -29,6 +29,7 @@ These are things i need
 
 4. [MAESTRO][M] - TITANIUM WHITE, PURPLE, PINK
 
+5. [ZADEH][Z] S3 inverted 
 ---
 
 ## ADD ON [EPIC][EPIC] | [(RL GARAGE)][trades]
