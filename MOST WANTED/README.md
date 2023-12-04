@@ -19,23 +19,7 @@
     }
 </style>
 
-# MOST WANTED
 
- [CREEPER][c] | FINISH SET
-
-[FORERUNNER][F] ROASTED | FINISH SET 
-
-[ENJIN][E] ROASTED | LIME
-
- [MAESTRO][M] | TITANIUM WHITE, PURPLE, PINK
-
-[ZADEH][Z] S3 INVERTED | TITANIUM WHITE, BLACK
-
----
-
-## HEAD [HERE][1] FOR FULL SHOPPING LIST 
-
-## ADD ON [EPIC][EPIC]
 
 [EPIC]: https://store.epicgames.com/u/693bb6e9d01d4cb88aa7fed7aca5b262
 [1]: /README.md
