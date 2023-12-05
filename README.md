@@ -94,6 +94,7 @@ skip to:
 #### P-SIMM
 
 + TW BLK CRM PNK BS ORG SAFF FG SKY 
+
     + ###### PRP 
 
 + INVERTED:
@@ -104,6 +105,7 @@ skip to:
 #### ZADEH S3 INVERTED
 
 + CRM
+
     + ###### TW BLK COB FG LME ORG PRP SAFF SKY 
 
 #### FLORET INFINITE
@@ -113,6 +115,7 @@ skip to:
     + ###### TW GRY BLK PNK BS ORG SAFF LME FG SKY COB PRP
 
 ##### ~~ENJIN ROASTED~~
+
 + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
 
 ##### ~~TRI-2050~~
@@ -167,9 +170,11 @@ skip to:
 
 
 ##### CORBITAL
+
 + ###### TW GRY CRM PNK ORG SAFF LME FG SKY COB PRP
 
 ##### FLAME CHAIN
+
 + ###### GRY BLK CRM PNK BS ORG LME FG SKY COB PRP
 
 ##### ~~WANED FLAME~~
@@ -198,6 +203,7 @@ skip to:
 #### RADIANT GUSH
 
 + TW PNK BS 
+
 + ###### BLK CRM ORG LME FG SKY COB PRP
 
 #### DARK MATTER
@@ -213,12 +219,14 @@ skip to:
 #### SPRATTLE
 
 + ORG 
+
 + ###### TW GRY BLK CRM PNK BS SAFF LME FG SKY COB PRP
 
 
 #### POWER-SHOT
 
 + TW GRY BLK CRM PNK BS SAFF LME FG SKY COB PRP
+
     + ###### ORG
 
 ##### ~~WANED FLAME~~
