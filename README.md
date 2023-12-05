@@ -111,14 +111,14 @@ skip to:
 
     + ###### TW GRY BLK PNK BS ORG SAFF LME FG SKY COB PRP
 
-##### ENJIN ROASTED
-+ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+        ##### ~~ENJIN ROASTED~~
+        + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
 
-##### TRI-2050
+        ##### ~~TRI-2050~~
 
-+ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB 
+        + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB 
 
-##### ~~THRONED SACRED~~
+        ##### ~~THRONED SACRED~~
 
 `return to` [INDEX][I] 
 
@@ -133,9 +133,9 @@ skip to:
 + TW  
     + ###### GRY CRM BS PNK ORG SAFF LME FG SKY COB PRP GLD  
 
-##### DOM GT
+        ##### ~~DOM GT~~
 
-##### BREAKOUT TYPE S
+        ##### BREAKOUT TYPE S
 
 `return to` [INDEX][I] 
 
@@ -155,25 +155,25 @@ skip to:
 + PNK SAFF SKY
     + ###### TW GRY BLK CRM BS ORG LME FG COB
 
-##### TARNATION
+        ##### TARNATION
 
-+ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+        + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
 
-##### PIXEL POINTER
+        ##### PIXEL POINTER
 
-+ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+        + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
 
 
 
-##### CORBITAL
-+ ###### TW GRY CRM PNK ORG SAFF LME FG SKY COB PRP
+        ##### CORBITAL
+        + ###### TW GRY CRM PNK ORG SAFF LME FG SKY COB PRP
 
-##### FLAME CHAIN
-+ ###### GRY BLK CRM PNK BS ORG LME FG SKY COB PRP
+        ##### FLAME CHAIN
+        + ###### GRY BLK CRM PNK BS ORG LME FG SKY COB PRP
 
-##### ~~WANED FLAME~~
+        ##### ~~WANED FLAME~~
 
-##### ~~FISSURE~~
+        ##### ~~FISSURE~~
 
 `return to` [INDEX][I] 
 
