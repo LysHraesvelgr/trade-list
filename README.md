@@ -14,7 +14,7 @@
     h2 {
         color: #ecbe91;
     }
-    h5 {
+    h5, h6 {
         color:red;
     }
 </style>
@@ -32,7 +32,7 @@ These are things i need
 5. [ZADEH][Z] S3 inverted 
 ---
 
-## ADD ON [EPIC][EPIC] | [(RL GARAGE)][trades]
+## ADD ON [EPIC][EPIC] | [RL GARAGE PROFILE][trades]
 
 # Key:
 
@@ -40,11 +40,11 @@ These are things i need
 
 #### Item
 
- + paints: `TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP GLD`
+ + NEEDED paints: `TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP GLD`
  
     
 
-##### ACQUIRED 
+##### ACQUIRED PAINTS:   
 
 ---
 ---
@@ -72,89 +72,96 @@ skip to:
 
 #### CREEPER
 
-+ [(creeper filter][1] & [listing)][2]
++ [(search filter][1] & [listing)][2]
 
 + BLK SKY COB PRP
 
-+ ##### TW GRY PNK BS ORG SAFF LME FG 
++ ###### TW GRY PNK BS ORG SAFF LME FG 
 
 #### FORERUNNER ROASTED
 
-+ PNK COB PRP SAFF FG [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
++ PNK PRP  [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
+    
+    + ###### TW GRY BLK CRM BS ORG SAFF LME FG SKY COB  
 
 #### SPIRALIS R2 / SPIRALIS FLARE
 
 + CRM BS ORG SAFF LME FG SKY COB PRP
  
-    + ##### TW GRY BLK PNK
+    + ###### TW GRY BLK PNK
 
 #### P-SIMM
 
 + TW BLK CRM PNK BS ORG SAFF FG SKY 
-    + ##### PRP NORMAL
+    + ###### PRP 
+
 + INVERTED:
     + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP 
 
-##### ENJIN ROASTED
 
- 
-
-#### TRI-2050
-
-+ BLK SKY PRP SAFF ORG FG LME CRM
-    + ##### GRY BS COB PNK TW
 
 #### ZADEH S3 INVERTED
 
 + GRY CRM BS PNK  
-    + ##### TW BLK COB FG LME ORG PRP SAFF SKY 
+    + ###### TW BLK COB FG LME ORG PRP SAFF SKY 
 
 #### FLORET INFINITE
 
-+ TW GRY CRM PNK ORG SAFF LME FG SKY COB 
++ CRM
+
+    + ###### TW GRY BLK PNK BS ORG SAFF LME FG SKY COB PRP
+
+##### ENJIN ROASTED
++ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+
+##### TRI-2050
+
++ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB 
 
 ## CAR BODY
 
 #### MERC
 
 + GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
-    + ##### LME TW
+    + ###### TW LME
+
+#### MAESTRO
++ TW  
+    + ###### GRY CRM BS PNK ORG SAFF LME FG SKY COB PRP GLD  
 
 ##### DOM GT
 ##### BREAKOUT TYPE S
-#### MAESTRO
-+ TW BS ORG LME 
-    + ##### GRY SKY CRM FG GLD PRP SAFF COB PNK
-
 ## TOPPER
 
 ##### UDDER
 
 ## TRAIL
 
-#### TARNATION
-
-+ TW CRM PNK ORG SAFF LME FG SKY COB PRP
-
-#### PIXEL POINTER
-
-+ GRY BLK BS ORG SAFF LME FG SKY COB
-
 #### DIMENSIONATOR
 
 + GRY PNK BS SAFF LME SKY PRP
+    + ###### TW BLK CRM ORG FG COB
 
 #### WARP WAVE
 
-+ GRY CRM PNK ORG SAFF FG SKY COB
++ PNK SAFF SKY
+    + ###### TW GRY BLK CRM BS ORG LME FG COB
 
-#### CORBITAL
+##### TARNATION
 
-+ BLK PNK BS ORG SAFF LME FG COB PRP
++ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
 
-#### FLAME CHAIN
+##### PIXEL POINTER
 
-+ GRY BLK CRM PNK BS ORG LME FG SKY COB PRP
++ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+
+
+
+##### CORBITAL
++ ###### TW GRY CRM PNK ORG SAFF LME FG SKY COB PRP
+
+##### FLAME CHAIN
++ ###### GRY BLK CRM PNK BS ORG LME FG SKY COB PRP
 
 ##### ~~WANED FLAME~~
 
@@ -168,17 +175,19 @@ skip to:
 
 #### MANDALA
 
-+ TW BS SAFF FG COB
++ TW BS SAFF FG 
+    + ###### COB
 
 #### DIMENSIONATOR
 
 + GRY CRM PNK SAFF LME SKY COB 
 
-    + ##### TW BLK
+    + ###### TW BLK ORG BS FG
 
 #### RADIANT GUSH
 
-+ TW GRY BLK CRM PNK BS ORG LME FG SKY COB PRP
++ TW PNK BS 
++ ###### BLK CRM ORG LME FG SKY COB PRP
 
 #### DARK MATTER
 
@@ -186,25 +195,27 @@ skip to:
 
 #### SMOKE RUN
 
-+ GRY BS SAFF LME SKY PRP 
++  SKY
     
-    + ##### TW BLK CRM PNK ORG FG COB
+    + ###### TW BLK CRM PNK ORG FG COB GRY BS SAFF LME PRP
 
 #### SPRATTLE
 
-+ TW GRY BLK CRM BS ORG SKY
++ ORG 
++ ###### TW GRY BLK CRM PNK BS SAFF LME FG SKY COB PRP
 
 #### TIMELINE
 
 + TW GRY BLK CRM PNK BS SAFF LME SKY COB PRP
 
+#### POWER-SHOT
+
++ TW GRY BLK CRM PNK BS SAFF LME FG SKY COB PRP
+    + ###### ORG
+
 ##### ~~WANED FLAME~~
 
 ##### ~~UNCANNY~~
-
-#### POWER-SHOT
-
-+ TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
 
 ## DECAL
 
