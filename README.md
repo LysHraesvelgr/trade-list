@@ -27,7 +27,7 @@
 
 These are top priority
 
-1. [CREEPER][c] - BLACK, COBALT
+1. [CREEPER][c] - BLACK
 
 1. [FORERUNNER][F] ROASTED - PURPLE
 
@@ -76,11 +76,11 @@ skip to section:
 
 #### CREEPER
 
- [(search filter][1] & [listing)][2]
+ [(search filter][3] & [listing)][2]
 
-+ BLK COB 
++ BLK 
 
-    + ###### TW GRY PNK BS ORG SAFF LME FG SKY PRP
+    + ###### TW GRY PNK BS ORG SAFF LME FG SKY PRP COB
 
 #### FORERUNNER ROASTED
 
@@ -265,7 +265,7 @@ skip to section:
 
 [MW]: #most-wanted
 
-[3]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=A&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=150&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=0&filterOnlineOnly=0 
+[3]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=13&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=500&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=0&filterOnlineOnly=0
 
 [2]: https://rocket-league.com/trade/AO6dnVp
 [creepertw]: https://rocket-league.com/trading?filterItem=2072&filterCertification=0&filterPaint=3&filterSeries=A&filterTradeType=2&filterMinCredits=0&filterMaxCredits=100000&filterPlatform%5B%5D=1&filterSearchType=1&filterItemType=1&filterOnlineOnly=0
