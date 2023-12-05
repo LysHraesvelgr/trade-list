@@ -153,8 +153,8 @@ skip to:
 
 #### WARP WAVE
 
-+ PNK SAFF SKY
-    + ###### TW GRY BLK CRM BS ORG LME FG COB
++ SAFF SKY
+    + ######  PNK TW GRY BLK CRM BS ORG LME FG COB
 
 ##### TARNATION
 
