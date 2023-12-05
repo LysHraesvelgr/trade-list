@@ -68,8 +68,6 @@ skip to:
 
 ## WHEELS
 
-##### ~~THRONED SACRED~~
-
 #### CREEPER
 
 + [(search filter][1] & [listing)][2]
@@ -118,6 +116,10 @@ skip to:
 
 + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB 
 
+##### ~~THRONED SACRED~~
+
+`return to` [INDEX][I] 
+
 ## CAR BODY
 
 #### MERC
@@ -130,7 +132,11 @@ skip to:
     + ###### GRY CRM BS PNK ORG SAFF LME FG SKY COB PRP GLD  
 
 ##### DOM GT
+
 ##### BREAKOUT TYPE S
+
+`return to` [INDEX][I] 
+
 ## TOPPER
 
 ##### UDDER
@@ -166,6 +172,8 @@ skip to:
 ##### ~~WANED FLAME~~
 
 ##### ~~FISSURE~~
+
+`return to` [INDEX][I] 
 
 ## BOOST
 
@@ -204,9 +212,6 @@ skip to:
 + ORG 
 + ###### TW GRY BLK CRM PNK BS SAFF LME FG SKY COB PRP
 
-#### TIMELINE
-
-+ TW GRY BLK CRM PNK BS SAFF LME SKY COB PRP
 
 #### POWER-SHOT
 
@@ -216,6 +221,12 @@ skip to:
 ##### ~~WANED FLAME~~
 
 ##### ~~UNCANNY~~
+
+##### TIMELINE
+
++ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP
+
+`return to` [INDEX][I] 
 
 ## DECAL
 
