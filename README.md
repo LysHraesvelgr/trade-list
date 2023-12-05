@@ -199,9 +199,9 @@ skip to:
 
 #### RADIANT GUSH
 
-+ TW PNK BS 
++ PNK 
 
-+ ###### BLK CRM ORG LME FG SKY COB PRP
++ ###### TW BLK CRM BS ORG LME FG SKY COB PRP
 
 #### DARK MATTER
 
