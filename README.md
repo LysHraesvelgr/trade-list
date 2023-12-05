@@ -27,8 +27,6 @@
 
 These are top priority
 
-1. [CREEPER][c] - BLACK
-
 1. [FORERUNNER][F] ROASTED - PURPLE
 
 4. [MAESTRO][M] - TITANIUM WHITE
@@ -74,13 +72,11 @@ skip to section:
 
 ## WHEELS
 
-#### CREEPER
+##### CREEPER
 
  [(search filter][3] & [listing)][2]
 
-+ BLK 
-
-    + ###### TW GRY PNK BS ORG SAFF LME FG SKY PRP COB
+    + ###### TW GRY PNK BS ORG SAFF LME FG SKY PRP COB BLK
 
 #### FORERUNNER ROASTED
 
