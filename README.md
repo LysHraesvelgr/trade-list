@@ -97,8 +97,8 @@ skip to:
     + ###### PRP 
 
 + INVERTED:
-    + TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP 
-
+    + GRY BLK CRM PNK BS ORG SAFF FG SKY COB PRP 
+        + ###### TW LME
 
 
 ##### ~~ZADEH S3 INVERTED~~
@@ -248,27 +248,15 @@ skip to:
 # return to [INDEX][I]
 
 # discord format
-```
-[H] 300× Credits [W] Black Creeper 
-[H] 150× Credits [W] Cobalt Creeper 
-[H] 150× Credits [W] Purple Creeper 
-[H] 300× Credits [W] Titanium White P-SIMM: Inverted 
-[H] 300× Credits [W] Black P-SIMM: Inverted 
-[H] 250× Credits [W] Pink P-SIMM: Inverted
-[H] 70× Credits [W] Pink Forerunner: Roasted 
-[H] 70× Credits [W] Purple Forerunner: Roasted 
-[H] 1000× Credits [W] Titanium White Maestro 
-[H] 40× Credits [W] Crimson Zadeh S3: Inverted
-```
+```js
+
 [H] 350× Credits [W] Black Creeper 
 [H] 250× Credits [W] Cobalt Creeper 
-[H] 250× Credits [W] Purple Creeper 
-[H] 300× Credits [W] Titanium White P-SIMM: Inverted 
 [H] 300× Credits [W] Black P-SIMM: Inverted 
 [H] 250× Credits [W] Pink P-SIMM: Inverted
-[H] 70× Credits [W] Purple Forerunner: Roasted 
+[H] 100× Credits [W] Purple Forerunner: Roasted 
 [H] 1100× Credits [W] Titanium White Maestro 
-
+```
 [I]: #index
 
 [MW]: #most-wanted
