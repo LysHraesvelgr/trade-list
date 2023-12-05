@@ -25,11 +25,9 @@ These are top priority
 
 1. [CREEPER][c] - BLACK, COBALT, PURPLE
 
-1. [FORERUNNER][F] ROASTED - PINK, PURPLE
+1. [FORERUNNER][F] ROASTED - PURPLE
 
 4. [MAESTRO][M] - TITANIUM WHITE
-
-5. [ZADEH][Z] S3 INVERTED - CRIMSON
 
 ---
 
@@ -264,6 +262,15 @@ skip to:
 [H] 1000× Credits [W] Titanium White Maestro 
 [H] 40× Credits [W] Crimson Zadeh S3: Inverted
 ```
+[H] 350× Credits [W] Black Creeper 
+[H] 200× Credits [W] Cobalt Creeper 
+[H] 200× Credits [W] Purple Creeper 
+[H] 300× Credits [W] Titanium White P-SIMM: Inverted 
+[H] 300× Credits [W] Black P-SIMM: Inverted 
+[H] 250× Credits [W] Pink P-SIMM: Inverted
+[H] 70× Credits [W] Purple Forerunner: Roasted 
+[H] 1100× Credits [W] Titanium White Maestro 
+
 [I]: #index
 
 [MW]: #most-wanted
