@@ -32,7 +32,7 @@ These are top priority
 5. [ZADEH][Z] S3 INVERTED - GREY, CRIMSON, BURNT SIENNA, PINK
 ---
 
-## ADD ON [EPIC][EPIC] | [RL GARAGE PROFILE][trades]
+## ADD ON [EPIC][EPIC] | [MY TRADES ON RL GARAGE][trades]
 
 # Key:
 
@@ -41,7 +41,7 @@ These are top priority
 #### Item
 
  + NEEDED paints: `TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP GLD`
- + ###### ACQUIRED PAINTS
+    + ###### ACQUIRED PAINTS
     
 
 ##### ACQUIRED ITEM/SET
