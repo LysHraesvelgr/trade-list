@@ -90,9 +90,9 @@ skip to:
 
 #### SPIRALIS R2 / SPIRALIS FLARE
 
-+ BS ORG LME FG SKY COB PRP
++ BS ORG LME FG SKY COB
  
-    + ###### TW GRY BLK PNK CRM SAFF
+    + ###### TW GRY BLK PNK CRM SAFF PRP
 
 #### P-SIMM
 
