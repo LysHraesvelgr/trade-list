@@ -44,7 +44,7 @@ These are top priority
  
     
 
-##### ACQUIRED PAINTS:   
+##### ALREADY ACQUIRED   
 
 ---
 ---
