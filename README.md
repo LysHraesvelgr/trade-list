@@ -23,7 +23,7 @@
 
 These are top priority
 
-1. [CREEPER][c] - BLACK, COBALT, PURPLE
+1. [CREEPER][c] - BLACK, COBALT
 
 1. [FORERUNNER][F] ROASTED - PURPLE
 
@@ -74,9 +74,9 @@ skip to:
 
  [(search filter][1] & [listing)][2]
 
-+ BLK COB PRP
++ BLK COB 
 
-    + ###### TW GRY PNK BS ORG SAFF LME FG SKY
+    + ###### TW GRY PNK BS ORG SAFF LME FG SKY PRP
 
 #### FORERUNNER ROASTED
 
@@ -86,9 +86,9 @@ skip to:
 
 #### SPIRALIS R2 / SPIRALIS FLARE
 
-+ CRM BS ORG SAFF LME FG SKY COB PRP
++ BS ORG LME FG SKY COB PRP
  
-    + ###### TW GRY BLK PNK
+    + ###### TW GRY BLK PNK CRM SAFF
 
 #### P-SIMM
 
@@ -261,8 +261,8 @@ skip to:
 [H] 40× Credits [W] Crimson Zadeh S3: Inverted
 ```
 [H] 350× Credits [W] Black Creeper 
-[H] 200× Credits [W] Cobalt Creeper 
-[H] 200× Credits [W] Purple Creeper 
+[H] 250× Credits [W] Cobalt Creeper 
+[H] 250× Credits [W] Purple Creeper 
 [H] 300× Credits [W] Titanium White P-SIMM: Inverted 
 [H] 300× Credits [W] Black P-SIMM: Inverted 
 [H] 250× Credits [W] Pink P-SIMM: Inverted
