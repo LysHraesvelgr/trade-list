@@ -71,11 +71,11 @@ skip to:
 
 #### CREEPER
 
-+ [(search filter][1] & [listing)][2]
+ [(search filter][1] & [listing)][2]
 
 + BLK SKY COB PRP
 
-+ ###### TW GRY PNK BS ORG SAFF LME FG 
+    + ###### TW GRY PNK BS ORG SAFF LME FG 
 
 #### FORERUNNER ROASTED
 
