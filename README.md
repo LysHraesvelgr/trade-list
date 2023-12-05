@@ -148,8 +148,8 @@ skip to:
 
 #### DIMENSIONATOR
 
-+ GRY PNK BS SAFF LME SKY PRP
-    + ###### TW BLK CRM ORG FG COB
++ GRY BS LME PRP
+    + ###### TW BLK CRM ORG FG COB PNK SKY SAFF
 
 #### WARP WAVE
 
