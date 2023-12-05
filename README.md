@@ -80,9 +80,9 @@ skip to:
 
 #### FORERUNNER ROASTED
 
-+ PNK PRP  [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
++ PRP  [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
     
-    + ###### TW GRY BLK CRM BS ORG SAFF LME FG SKY COB  
+    + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB  
 
 #### SPIRALIS R2 / SPIRALIS FLARE
 
@@ -101,11 +101,9 @@ skip to:
 
 
 
-#### ZADEH S3 INVERTED
+##### ~~ZADEH S3 INVERTED~~
 
-+ CRM
-
-    + ###### TW BLK COB FG LME ORG PRP SAFF SKY 
++ ###### TW BLK CRM COB FG LME ORG PRP SAFF SKY 
 
 #### FLORET INFINITE
 
