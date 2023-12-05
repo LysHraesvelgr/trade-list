@@ -23,7 +23,7 @@
 
 These are top priority
 
-1. [CREEPER][c] - BLACK, SKY BLUE, COBALT, PURPLE
+1. [CREEPER][c] - BLACK, COBALT, PURPLE
 
 1. [FORERUNNER][F] ROASTED - PINK, PURPLE
 
@@ -69,15 +69,16 @@ skip to:
 ---
 ---
 
+
 ## WHEELS
 
 #### CREEPER
 
  [(search filter][1] & [listing)][2]
 
-+ BLK SKY COB PRP
++ BLK COB PRP
 
-    + ###### TW GRY PNK BS ORG SAFF LME FG 
+    + ###### TW GRY PNK BS ORG SAFF LME FG SKY
 
 #### FORERUNNER ROASTED
 
@@ -250,6 +251,19 @@ skip to:
 ---
 # return to [INDEX][I]
 
+# discord format
+```
+[H] 300× Credits [W] Black Creeper 
+[H] 150× Credits [W] Cobalt Creeper 
+[H] 150× Credits [W] Purple Creeper 
+[H] 300× Credits [W] Titanium White P-SIMM: Inverted 
+[H] 300× Credits [W] Black P-SIMM: Inverted 
+[H] 250× Credits [W] Pink P-SIMM: Inverted
+[H] 70× Credits [W] Pink Forerunner: Roasted 
+[H] 70× Credits [W] Purple Forerunner: Roasted 
+[H] 1000× Credits [W] Titanium White Maestro 
+[H] 40× Credits [W] Crimson Zadeh S3: Inverted
+```
 [I]: #index
 
 [MW]: #most-wanted
