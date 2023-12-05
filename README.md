@@ -41,10 +41,10 @@ These are top priority
 #### Item
 
  + NEEDED paints: `TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB PRP GLD`
- 
+ + ###### ACQUIRED PAINTS
     
 
-##### ALREADY ACQUIRED   
+##### ACQUIRED ITEM/SET
 
 ---
 ---
@@ -63,6 +63,7 @@ skip to:
 [ANTENNA](#ANTENNA)
 [GOAL EX](#EXPLOSIONS)
 [[BACK TO TOP]][MW]
+
 ---
 ---
 ---
