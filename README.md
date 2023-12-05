@@ -193,9 +193,9 @@ skip to:
 
 #### DIMENSIONATOR
 
-+ GRY CRM PNK SAFF LME SKY COB 
++ PNK LME SKY COB 
 
-    + ###### TW BLK ORG BS FG
+    + ###### TW BLK ORG BS FG CRM GRY SAFF
 
 #### RADIANT GUSH
 
