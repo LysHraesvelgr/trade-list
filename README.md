@@ -14,9 +14,13 @@
     h2 {
         color: #ecbe91;
     }
-    h5, h6 {
+    h5 {
         color:red;
     }
+    h6 {
+        color:#355;
+    }
+
 </style>
 
 # MOST WANTED
@@ -92,13 +96,13 @@ skip to:
 
 #### P-SIMM
 
-+ TW BLK CRM PNK BS ORG SAFF FG SKY 
++ BLK CRM PNK BS ORG SAFF FG SKY 
 
     + ###### PRP 
 
-+ INVERTED:
-    + GRY BLK CRM PNK BS ORG SAFF FG SKY COB PRP 
-        + ###### TW LME
++ INVERTED: GRY BLK CRM PNK BS ORG SAFF FG SKY COB PRP 
+    
+     + ###### TW LME
 
 
 ##### ~~ZADEH S3 INVERTED~~
