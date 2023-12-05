@@ -80,9 +80,9 @@ skip to section:
 
 #### FORERUNNER ROASTED
 
-+ PRP  [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
+[(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
     
-    + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB  
+    + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB  PRP
 
 #### SPIRALIS R2 / SPIRALIS FLARE
 
