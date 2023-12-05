@@ -35,9 +35,9 @@ These are top priority
 
 ---
 
-## ADD ON [EPIC][EPIC] | [MY TRADES ON RL GARAGE][trades]
+## ADD ON [EPIC][EPIC] | [SEE MY TRADES ON RL GARAGE][trades]
 
-# Key:
+# FORMAT:
 
 ## Category
 
@@ -55,7 +55,7 @@ These are top priority
 ---
 
 # index
-skip to:
+skip to section:
 
 [WHEELS](#wheels)
 [BOOST](#boost)
@@ -157,8 +157,8 @@ skip to:
 
 #### WARP WAVE
 
-+ SAFF SKY
-    + ######  PNK TW GRY BLK CRM BS ORG LME FG COB
++ SAFF
+    + ######  PNK TW GRY BLK CRM BS ORG LME FG COB SKY
 
 ##### TARNATION
 
@@ -197,9 +197,9 @@ skip to:
 
 #### DIMENSIONATOR
 
-+ PNK LME SKY COB 
++ LME SKY COB 
 
-    + ###### TW BLK ORG BS FG CRM GRY SAFF
+    + ###### TW BLK ORG BS FG CRM GRY SAFF PNK
 
 #### RADIANT GUSH
 
