@@ -27,8 +27,6 @@
 
 These are top priority
 
-1. [FORERUNNER][F] ROASTED - PURPLE
-
 4. [MAESTRO][M] - TITANIUM WHITE
 
 ---
@@ -76,15 +74,15 @@ skip to section:
 
  [(search filter][3] & [listing)][2]
 
-    + ###### TW GRY PNK BS ORG SAFF LME FG SKY PRP COB BLK
++ ###### TW GRY PNK BS ORG SAFF LME FG SKY PRP COB BLK
 
-#### FORERUNNER ROASTED
+##### FORERUNNER ROASTED
 
 [(Garage Listing)](https://rocket-league.com/trade/jvYpZ85)
     
-    + ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB  PRP
++ ###### TW GRY BLK CRM PNK BS ORG SAFF LME FG SKY COB  PRP
 
-#### SPIRALIS R2 / SPIRALIS FLARE
+##### SPIRALIS R2 / SPIRALIS FLARE
 
 + BS ORG LME FG SKY COB
  
